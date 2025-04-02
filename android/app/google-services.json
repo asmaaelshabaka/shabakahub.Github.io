@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562429955432",
+    "project_id": "shabakacourse",
+    "storage_bucket": "shabakacourse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562429955432:android:d22c6e8bb76cd348939add",
+        "android_client_info": {
+          "package_name": "com.example.shabakahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCveKWpXJe_WQHxQjv_034XorEVlm0ZrE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
