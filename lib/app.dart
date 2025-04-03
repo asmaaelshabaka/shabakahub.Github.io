@@ -112,7 +112,7 @@ class SecondScreen extends StatelessWidget {
         centerTitle: true,
       ),
       body: Center(
-        child: Column(children: [Text(Get.parameters['coursename']?? ''),Text('data')],),
+        child: Column(children: [Text(Get.parameters['coursename mozza']?? ''),Text('data mozza')],),
       ),
     );
   }
